@@ -1,5 +1,8 @@
-<img src="https://dl.dropboxusercontent.com/scl/fi/etgtnm7ohn5hb9bxn6mei/encantamiento-1.gif?rlkey=d3mgb6ovbz8qrtvb0alqi2ox3&st=7rzeitg0&" width="100"/> 
-##Hi, Welcome to my portfolio 👋 <img src="https://dl.dropboxusercontent.com/scl/fi/etgtnm7ohn5hb9bxn6mei/encantamiento-1.gif?rlkey=d3mgb6ovbz8qrtvb0alqi2ox3&st=7rzeitg0&" width="100"/>
+<h2 align="center">
+  <img src="https://dl.dropboxusercontent.com/scl/fi/etgtnm7ohn5hb9bxn6mei/encantamiento-1.gif?rlkey=d3mgb6ovbz8qrtvb0alqi2ox3&st=7rzeitg0&" width="100"/>
+    Hi, Welcome to my portfolio 👋
+  <img src="https://dl.dropboxusercontent.com/scl/fi/etgtnm7ohn5hb9bxn6mei/encantamiento-1.gif?rlkey=d3mgb6ovbz8qrtvb0alqi2ox3&st=7rzeitg0&" width="100"/>
+</h2>
 
 <img width="1584" height="396" alt="matiassiles843@gmail com" src="https://github.com/user-attachments/assets/bc85bf4b-1389-4786-89c9-5e86cc88442c" />
 
