@@ -6,10 +6,6 @@
 
 <img width="1584" height="396" alt="matiassiles843@gmail com" src="https://github.com/user-attachments/assets/bc85bf4b-1389-4786-89c9-5e86cc88442c" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matias&label=Profile%20views&color=0e75b6&style=flat" alt="matias" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matias" alt="matias" /></a> </p>
-
 - 🔭 I’m currently working on **nowhere for now**
 
 - 🌱 I’m currently learning **ML, DL, AI Chabots for Whatsaap, Automation, Neural Networks like Transformers, CNN, etc**
